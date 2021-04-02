@@ -1,4 +1,4 @@
-import Setup from './projects/2makeStyles'
+import Setup from './projects/3buttons'
 
 function App() {
   return (
