@@ -2,7 +2,6 @@ import React from 'react'
 import Card from '@material-ui/core/Card';
 import CardActions from '@material-ui/core/CardActions';
 import CardContent from '@material-ui/core/CardContent';
-import { makeStyles } from '@material-ui/core/styles';
 import Typography from '@material-ui/core/Typography';
 import Button from '@material-ui/core/Button';
 import CardHeader from '@material-ui/core/CardHeader';
@@ -31,7 +30,6 @@ const CCard = (props) => {
                 <Typography variant="body2" component="p">
                     {description}
                     <br />
-                    {'"a benevolent smile"'}
                 </Typography>
             </CardContent>
             <CardActions>

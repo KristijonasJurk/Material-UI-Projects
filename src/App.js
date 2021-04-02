@@ -1,4 +1,4 @@
-import Setup from './projects/1products'
+import Setup from './projects/2makeStyles'
 
 function App() {
   return (
