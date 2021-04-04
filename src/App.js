@@ -1,4 +1,4 @@
-import Setup from './projects/3buttons'
+import Setup from './projects/4customTheme'
 
 function App() {
   return (
