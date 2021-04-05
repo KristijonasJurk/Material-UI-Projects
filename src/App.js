@@ -1,4 +1,4 @@
-import Setup from './projects/6grid/Grid'
+import Setup from './projects/6grid/Grid2'
 
 function App() {
   return (
