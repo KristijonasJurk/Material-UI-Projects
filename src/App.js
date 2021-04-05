@@ -1,4 +1,4 @@
-import Setup from './projects/4customTheme'
+import Setup from './projects/6grid/Grid'
 
 function App() {
   return (
